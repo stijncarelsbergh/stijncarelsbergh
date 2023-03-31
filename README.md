@@ -8,6 +8,11 @@
     <a href="https://twitter.com/carelsberghs" target="blank"><img src="twitter.png" alt="twitter" style="height: 40px; margin-right: 10px;"/></a>
 </p>
 
+<h2 align="left">View my projects</h2>
+<p align="left">
+    <a href="https://github.com/stijnsprojects" target="blank"><img src="github.svg" alt="github" style="height: 40px; margin-right: 10px;"/></a>
+</p>
+
 <h2 align="left">Skills / Tools</h2>
 <h3 align="left">Engineering</h3>
 <p align="left">
