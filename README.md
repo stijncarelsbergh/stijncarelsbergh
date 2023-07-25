@@ -3,7 +3,7 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-    <a href="https://www.instagram.com/carelsbergh_stijn" target="blank"><img src="instagram.png" alt="instagram" style="height: 40px; margin-right: 10px;"/></a>
+    <a href="https://www.instagram.com/stijn_carelsbergh" target="blank"><img src="instagram.png" alt="instagram" style="height: 40px; margin-right: 10px;"/></a>
     <a href="https://www.facebook.com/stijn.carelsbergh" target="blank"><img src="facebook.png" alt="facebook" style="height: 40px; margin-right: 10px;"/></a>
     <a href="https://twitter.com/carelsberghs" target="blank"><img src="twitter.png" alt="twitter" style="height: 40px; margin-right: 10px;"/></a>
 </p>
